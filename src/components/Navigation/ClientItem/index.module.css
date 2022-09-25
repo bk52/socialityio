@@ -1,0 +1,23 @@
+.item {
+  @apply w-full h-fit relative flex justify-center;
+}
+
+.button {
+  @apply w-[37px] h-[37px] relative cursor-pointer;
+}
+
+.overlay {
+  @apply w-full h-full absolute rounded-6 bg-black opacity-76;
+}
+
+.image {
+  @apply w-full h-full rounded-6;
+}
+
+.selector {
+  @apply absolute -left-[4px];
+}
+
+.badge {
+  @apply w-[15px] h-[15px] absolute z-20 flex justify-center items-center rounded-full bg-badgeColor text-white font-raleway font-bold text-9 -top-[7px] -right-[7px];
+}

@@ -1,0 +1,15 @@
+.navigation {
+  @apply w-[274px] h-full flex flex-col flex-shrink-0;
+}
+
+.navigationItems {
+  @apply w-full flex flex-row flex-1;
+}
+
+.navigationClients {
+  @apply w-[66px] h-full flex flex-col items-center pt-[11px] space-y-[11px] bg-navigation-client-logos;
+}
+
+.navigationMenu {
+  @apply flex-1 h-full bg-navigation-menu;
+}

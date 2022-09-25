@@ -1,0 +1,7 @@
+.brandPanel {
+  @apply w-full h-[51px] flex justify-center items-center bg-navigation-primary;
+}
+
+.brandPanel > img {
+  @apply w-[142px] cursor-pointer;
+}

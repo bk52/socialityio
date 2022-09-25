@@ -1,0 +1,64 @@
+.menuItem {
+  @apply w-full h-[51px] relative flex justify-center items-center cursor-pointer;
+}
+
+.cursor {
+  @apply w-[10px] h-[10px] absolute -bottom-[5px] left-[25px] z-10 rotate-45 bg-navigation-menu-active;
+}
+
+.menuItem,
+.menuItem.active {
+  @apply bg-navigation-secondary;
+}
+
+.menuItem.active ~ .menuItem {
+  @apply bg-navigation-menu;
+}
+
+.menuItem.active {
+  @apply bg-navigation-menu-active;
+}
+
+.menuContent {
+  @apply w-[176px] h-[20px] flex items-center;
+}
+
+.menuContent > img {
+  @apply w-[20px] h-full;
+}
+
+.menuTitle {
+  @apply flex-1 font-raleway text-white font-medium text-14 ml-[9px] select-none;
+}
+
+.menuBadge {
+  @apply w-[30px] h-[17px] flex justify-center items-center text-white font-raleway font-medium text-12 border border-badgeBorderColor rounded-4 select-none;
+}
+
+.menuButton {
+  @apply w-[30px] h-[17px] flex justify-center items-center;
+}
+
+.menuButton > img {
+  @apply select-none;
+}
+
+.subMenu {
+  @apply w-full overflow-hidden text-white bg-navigation-secondary font-raleway font-medium text-14;
+}
+
+.subMenu.collapse {
+  @apply h-0;
+}
+
+.subMenu.expand {
+  @apply h-fit pt-[24px] pb-[24px] pl-[28px] space-y-[24px];
+}
+
+.subMenu > li {
+  @apply cursor-pointer;
+}
+
+.subMenu > .active {
+  @apply text-navigation-menu-active;
+}

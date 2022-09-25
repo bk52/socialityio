@@ -1,0 +1,27 @@
+.badge {
+  @apply w-[10px] h-[10px] rounded-full mr-[10px];
+}
+
+.badge.published {
+  @apply bg-status-published;
+}
+
+.badge.scheduled {
+  @apply bg-status-scheduled;
+}
+
+.badge.needApproval {
+  @apply bg-status-needApproval;
+}
+
+.badge.error {
+  @apply bg-status-error;
+}
+
+.badge.notes {
+  @apply bg-status-notes;
+}
+
+.title {
+  @apply font-raleway font-semibold text-14 text-gray-text-color mr-[20px];
+}

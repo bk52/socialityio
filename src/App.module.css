@@ -1,0 +1,7 @@
+.main {
+  @apply w-screen h-screen flex bg-page;
+}
+
+.page {
+  @apply flex-1 h-full flex flex-col items-center px-[40px] overflow-auto;
+}

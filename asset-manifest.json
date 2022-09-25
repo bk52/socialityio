@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.70540bc6.css",
+    "main.js": "/static/js/main.9960c8f3.js",
+    "static/media/Logo1.jpg": "/static/media/Logo1.02869416d0c15f85f9db.jpg",
+    "static/media/Logo4.jpg": "/static/media/Logo4.7b2b09d5fa5ea49fe980.jpg",
+    "static/media/Logo2.jpg": "/static/media/Logo2.b05a9ad04eb1bd46afcb.jpg",
+    "static/media/Logo5.jpg": "/static/media/Logo5.5b613fe39eab4b796ed7.jpg",
+    "static/media/Logo3.jpg": "/static/media/Logo3.2ad59d583562b5fe04d6.jpg",
+    "static/media/Logo6.jpg": "/static/media/Logo6.e319273c21c09c4555c0.jpg",
+    "static/media/Sociality-logo.png": "/static/media/Sociality-logo.066aab4529c1ee1b0f39.png",
+    "static/media/no-post-image.png": "/static/media/no-post-image.67ed9c632e4c2b064ca0.png",
+    "static/media/listen.svg": "/static/media/listen.cffb2994cfa54f16d48a3c598abd183a.svg",
+    "static/media/notification.svg": "/static/media/notification.973169f3aa26df9fa685643ee4c9a4b1.svg",
+    "static/media/engage.svg": "/static/media/engage.19f404fb3798407ff3c57b629794d6f6.svg",
+    "static/media/summary.svg": "/static/media/summary.cdebc61356cf0eefac98e4d600416a77.svg",
+    "static/media/report.svg": "/static/media/report.28b3de4af99bfd953659fed863a511cd.svg",
+    "static/media/publish.svg": "/static/media/publish.996760101fcfa78dedd0507047f76fbe.svg",
+    "index.html": "/index.html",
+    "static/media/expand.svg": "/static/media/expand.f5275b9b9a864009706554800c4cd0ed.svg",
+    "static/media/menuSelector.svg": "/static/media/menuSelector.c8475169443c9132cf72399ad297d741.svg",
+    "static/media/collapse.svg": "/static/media/collapse.c20749779ae3bfee8721cd7e2917ed12.svg",
+    "main.70540bc6.css.map": "/static/css/main.70540bc6.css.map",
+    "main.9960c8f3.js.map": "/static/js/main.9960c8f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70540bc6.css",
+    "static/js/main.9960c8f3.js"
+  ]
+}

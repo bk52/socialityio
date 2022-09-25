@@ -1,6 +1,8 @@
 {
   "name": "socialityio",
   "version": "0.1.0",
+  "author": "bk52",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.5",
